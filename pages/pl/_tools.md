@@ -15,7 +15,7 @@ Rzecz w tym, że tak naprawdę używa się bardzo małego procenta całej funkcj
 
 Niestety, można powiedzieć że to są tylko słodycze, a naprawdę brak jest jakiejś *zabójczej* funkcjonalności. Wyjątkiem może być funkcja budowania sprite’ów, która jest *naprawdę świetna*, lecz [Grunticon](https://github.com/filamentgroup/grunticon) i [Grumpicon](http://grumpicon.com/) robią to równie dobrze i mają ponadto tą zaletę, że można je dołączyć do zautomatyzowanego procesu budowania (jeśli z takiego korzystamy).
 
-W każdym bądź razie, w żadnym wypadku nie zabraniam używania Compassu, chociaż też go nie polecam, zwłaszcza że nie jest on kompatybilny z LibSass (nawet jeśli pewne zamiary zostały w tym kierunku poczynione). Jeśli okazuje się on być w danej sytuacji pomocny, w porządku, ale nie wydaje mi się żeby jego zalety przewyższały jego wady.
+W każdym razie, w żadnym wypadku nie zabraniam używania Compassu, chociaż też go nie polecam, zwłaszcza że nie jest on kompatybilny z LibSass (nawet jeśli pewne zamiary zostały w tym kierunku poczynione). Jeśli okazuje się on być w danej sytuacji pomocny, w porządku, ale nie wydaje mi się żeby jego zalety przewyższały jego wady.
 
 <div class="note">
   <p>Ruby Sass jest obecnie gruntownie optymalizowany i prace te są ukierunkowane w szczególności na rozbudowane style, z wieloma funkcjami i mixinami. Wydajność i szybkość kompilacji powinna zostać znacznie poprawiona, dzięki czemu Compass i inne frameworki nie będą tak bardzo spowalniać Sassa.</p>
